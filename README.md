@@ -25,7 +25,7 @@ Weru
 🧊 게임 70개 이상 개발   
 
 ## 🔹 소속
-> ( 2020.02.03 ~ ) JCJS games 대표
+> ( 2020.02.03 ~ ) JCJS games 대표   
 > ( 2016.??.?? ~ ) STENRiSE 대표
 
 ### 제사장 갔습니다
@@ -44,25 +44,25 @@ STENRiSE는 STENRiSE, JCJS games, JCJS connect, Author Office(Present Author's R
 
 bold: main project
 
-> **2017**
+> **2017**   
 ?
 
-> **2018**
+> **2018**   
 Test
 
-> **2019**
+> **2019**   
 ?
 
-> **2020**
+> **2020**   
 **THE PLOIDER**, titipol, Return, Unraze, **Side move**, **Gliding Rush**, BoxC, 3gk
 
-> **2021**
+> **2021**   
 **UnderWave**, One Line, Top Box, Rising Otherside, Birthday Tower, Break!, Slider, The Rore, **Plan Persist**, Project Gyukri, No More Sorrow, Rainy Forest, DreamCore, Maxrio, CabloR, **Decent Move**, **Entirely: End of Life**, Entirely: Unraze, Entirely: SURFACE, Past, From Beyond The Moon, Project Gamsi, JCJS the Museum, COS, AOB, Localflat
 
-> **2022**
+> **2022**   
 JustFineDustTime, A Piece of Peace, CtrlZ, Bit till Beat, sperec, aiy, LIM - Life is Melody, **The ColorGates**, Big Off, **lIlIl**, plzmakesomecakes4me, JCJS Workspace Studio, XoeM, XeoM, Plan Z, Play A, Play DE, Coral Resort, Christmas Special, coinship, **Diway**, **Nefurens**, **ZERØHEART**
 
-> **2023**
+> **2023**   
 PROJECT ONE, PROJECT TWO, **PROJECT R**, Mollu., Depthium, Realflat
 
 > **2024**
