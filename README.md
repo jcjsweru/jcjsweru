@@ -47,7 +47,7 @@ Weru
 STENRiSE는 STENRiSE, JCJS games, JCJS connect, Author Office(Present Author's Reform and EndFlow Office), Depth Studio, Illusion 등을 포괄합니다.
 
 ## 🔹 이벤트 진행
-게임잼 개최 - Game Montage Challenge, 엄랭게임잼, JCJS gamejam
+게임잼 개최 - Game Montage Challenge, 엄랭게임잼, JCJS gamejam   
 이벤트 진행 - HighFunk Overload, Demains Overload
 
 ## 🔹 CURRENT PROJECTS
