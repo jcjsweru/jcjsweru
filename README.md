@@ -38,12 +38,12 @@ Weru
 ### 제사장 갔습니다
 
 ## 🔹 JCJS games
-2020년 2월 3일에 설립되어 게임 개발 팀으로 활동하다 2024년 커뮤니티 형태로 전환된 JCJS games입니다.
-멤버는 1000명 이상으로 현재도 인원이 늘고 있습니다.
+2020년 2월 3일에 설립되어 게임 개발 팀으로 활동하다 2024년 커뮤니티 형태로 전환된 JCJS games입니다.   
+멤버는 1000명 이상으로 현재도 인원이 늘고 있습니다.   
 알아서 공식 디스코드에 오세요.
 
 ## 🔹 STENRiSE
-2016년 In Scent Stenrise로 설립되어 활동이 없다 JCJS games가 커뮤니티로 전환되자 관짝에서부터 부활한 STENRiSE입니다.
+2016년 In Scent Stenrise로 설립되어 활동이 없다 JCJS games가 커뮤니티로 전환되자 관짝에서부터 부활한 STENRiSE입니다.   
 STENRiSE는 STENRiSE, JCJS games, JCJS connect, Author Office(Present Author's Reform and EndFlow Office), Depth Studio, Illusion 등을 포괄합니다.
 
 ## 🔹 이벤트 진행
