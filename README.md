@@ -28,7 +28,7 @@ Weru
 💥 16년차 백수   
 🧊 게임 70개 이상 개발   
 🧩 2024 BIC 최연소 전시자   
-🥞 2024 Made With Unity Awards Student 부문 노미네이트   
+🥞 2024 Unity Awards Youth Creator 부문 노미네이트   
 🌌 ! 제 깃허브 훔쳐보지 마세요 간첩신고 하겠습니다 !   
 
 ## 🔹 소속
