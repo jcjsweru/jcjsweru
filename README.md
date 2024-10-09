@@ -48,7 +48,8 @@ STENRiSE는 STENRiSE, JCJS games, JCJS connect, Author Office(Present Author's R
 
 ## 🔹 이벤트 진행
 게임잼 개최 - Game Montage Challenge, 엄랭게임잼, JCJS gamejam   
-이벤트 진행 - HighFunk Overload, Demains Overload
+이벤트 진행 - HighFunk Overload, Demains Overload   
+기타 - JCJS games 도트 대회, 3시간 게임잼
 
 ## 🔹 CURRENT PROJECTS
 - 개발
