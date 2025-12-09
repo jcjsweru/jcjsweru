@@ -34,8 +34,8 @@
 👁‍🗨 엘피교 신자 (엘피는 유일신이다)   
 💥 18년차 백수   
 🧊 게임 90개 이상 개발   
-🧩 엄준식 심리 전문가
-🥞 5살 때부터 피아노 쳤어 천재였지
+🧩 엄준식 심리 전문가   
+🥞 5살 때부터 피아노 쳤어 천재였지   
 🌌 ! 제 깃허브 훔쳐보지 마세요 간첩신고 하겠습니다 !   
 
 앨범을 냈어
@@ -45,7 +45,7 @@
 
 ## 🔹 역량
 **게임 개발**  
-3D 모델링, 작곡, 프로그래밍, 기획, 영상 제작 및 편집, 디자인, 컨텐츠 제작 등
+3D 모델링, 작곡, 프로그래밍, 기획, 영상 제작 및 편집, 디자인, 컨텐츠 제작, 분신술 등
 
 ## 🔹 테크 스택 (정직함)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -64,15 +64,12 @@
 - ## 🔹 이벤트 및 행사 주최
 **게임잼 개최**
 - 웨루게임잼 (RE:개발살던놈들) - 최초의 서바이벌 게임잼, 개발자 100명 참여, 4라운드 구성
-- Game Montage Challenge 주최
+- Game Montage Challenge 개최
 - Creative Rush 개최
-- 엄랭게임잼
-- JCJS gamejam
-- 월별게임잼 개최
+- JCJS games 월별게임잼 개최
 
 **이벤트 진행**  
 - HighFunk Overload 진행
-- Demains Overload
 - On Air: JCJS games 진행
 - JCJS games 도트 대회
 
